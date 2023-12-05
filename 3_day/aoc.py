@@ -16,7 +16,7 @@ for line in lines:
         
 nums = []
 for line in lines:
-    nums.append(use_regex_nums(line))
+
     
 
     
